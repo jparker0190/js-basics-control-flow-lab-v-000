@@ -24,6 +24,8 @@ function ternaryCheckCity(city) {
 }
 function switchOnCharmFromTip(tip){
   let result
-
+  if (tip === "generous"){
+    result = "Ok, sounds good."
+  }
   return result
 }
