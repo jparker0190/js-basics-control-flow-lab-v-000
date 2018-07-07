@@ -22,3 +22,8 @@ function ternaryCheckCity(city) {
   }
   return result
 }
+function switchOnCharmFromTip(tip){
+  let tip
+
+  return tip
+}
